@@ -1,6 +1,6 @@
 # Gravity Forms danish translation files
 
-Danish strings for the core files Gravity Forms WordPress plugin. No add-ons translations (yet).
+Danish translations for core files of the Gravity Forms WordPress plugin. No add-ons translations (yet).
 
 Written against Gravity Forms v1.7.6
 
